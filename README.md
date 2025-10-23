@@ -18,8 +18,7 @@ Full stack developer working on a few projects
 ---
 [![](https://visitcount.itsvg.in/api?id=lovuwer&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 <!--
 **Lovuwer/Lovuwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
