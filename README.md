@@ -1,5 +1,5 @@
 <details>
-<summary>🟢 Live presence</summary>
+<summary> Discord </summary>
 
 <sub>
 Exposed via Lanyard as a real-time state signal (not a social widget).
