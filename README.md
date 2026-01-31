@@ -1,18 +1,24 @@
 <details>
-<summary>🟢 Live presence (via Lanyard)</summary>
+<summary>🟢 Live presence</summary>
 
-I use Lanyard as a lightweight, real-time state channel to expose
-what I’m currently working on (via Discord status), rather than
-treating presence as a social signal.
+<sub>
+Exposed via Lanyard as a real-time state signal (not a social widget).
+My custom Discord status reflects what I’m currently analyzing or building.
+</sub>
 
 <p align="center">
   <a href="https://discord.com/users/1123073076360380487">
-    <img src="https://lanyard.kyrie25.dev/api/1123073076360380487
+    <img
+      src="https://lanyard.kyrie25.dev/api/1123073076360380487
       ?bg=000000
-      &borderRadius=14px
+      &borderRadius=16px
       &animatedDecoration=false
       &hideBadges=true
-      &hideTimestamp=true" />
+      &hideTimestamp=true
+      &hideProfile=false
+      &hideActivity=false"
+      alt="Live Discord presence"
+    />
   </a>
 </p>
 
