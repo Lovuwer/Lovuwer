@@ -23,3 +23,9 @@ My custom Discord status reflects what I’m currently analyzing or building.
 </p>
 
 </details>
+### 🎵 Currently looping while debugging
+
+<audio controls>
+  <source src="505.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
