@@ -1,9 +1,7 @@
 <details>
 <summary> Discord </summary>
 
-<sub>
-Cusstom Discord status so you know what I’m currently analyzing or building.
-</sub>
+
 
 <p align="center">
   <a href="https://discord.com/users/1123073076360380487">
