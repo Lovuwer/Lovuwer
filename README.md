@@ -2,8 +2,7 @@
 <summary> Discord </summary>
 
 <sub>
-Exposed via Lanyard as a real-time state signal (not a social widget).
-My custom Discord status reflects what I’m currently analyzing or building.
+Cusstom Discord status so you know what I’m currently analyzing or building.
 </sub>
 
 <p align="center">
