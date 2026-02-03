@@ -2,7 +2,7 @@
 
 # Joel
 
-Am every type of engineer due to AI. 
+Am every type of engineer due to AI. I love testing limitations of AI by making pointless projects using them, and see if it works.
 
 <a href="https://discord.com/users/1123073076360380487">
   <img src="https://lanyard.cnrad.dev/api/1123073076360380487?theme=dark&bg=0d1117&animated=true&hide_discrim=true" alt="Discord Presence" />
