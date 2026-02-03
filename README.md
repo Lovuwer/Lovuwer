@@ -2,7 +2,7 @@
 
 # Joel
 
-Backend Systems Architect & Security Engineer specializing in high-performance distributed systems and enterprise-grade AI security infrastructure.
+Am every type of engineer due to AI. 
 
 <a href="https://discord.com/users/1123073076360380487">
   <img src="https://lanyard.cnrad.dev/api/1123073076360380487?theme=dark&bg=0d1117&animated=true&hide_discrim=true" alt="Discord Presence" />
