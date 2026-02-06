@@ -2,7 +2,7 @@
 
 # Joel
 
-Am every type of engineer due to AI, but I do hate vibe coding as AI code has too many vulnerabilities and time spent on prompt engineering is insane, but hey I love testing limitations of AI by making pointless projects using them, and see if it works.
+Am every type of engineer due to AI, but I do hate vibe coding as AI code has too many vulnerabilities. Most of my time is now spent on prompt engineering, not only that, am getting dumber, iis insane, but hey I love testing limitations of AI by making pointless projects using them, and see if it works.
 
 <a href="https://discord.com/users/1123073076360380487">
   <img src="https://lanyard.cnrad.dev/api/1123073076360380487?theme=dark&bg=0d1117&animated=true&hide_discrim=true" alt="Discord Presence" />
